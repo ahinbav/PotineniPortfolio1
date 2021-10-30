@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Background on Academy of Science Research Portfolio</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Background on Academy of Science Research Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Significance of Problem Area &#43; Title Terms</title>
+      <link>https://example.com/post/chapter-3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-3/</guid>
+      <description>WHAT IS CHD?
+ Coronary Heart Disease (CHD) is the leading cause of death in the US, with approximately 500,000 - 700,000 deaths annually. People who are asymptomatic are unaware that they have CHD until they experience chest pain, a heart attack, or sudden cardiac arrest. Variations in early signs and symptoms may make CHD harder to recognize  For example, Men may feel fatigue or physical discomfort and attribute it to overwork, poor sleep, or some general age-related pain.</description>
+    </item>
+    
+    <item>
+      <title>Why Machine Learning &#43; Dataset Used</title>
+      <link>https://example.com/post/chapter-5/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-5/</guid>
+      <description>Before delving into the specific Machine Learning Applications, it&amp;rsquo;s also crucial to look into why a project would be needed in this area.
+As mentioned previously, the variations in early signs and symptoms make CHD harder to recognize. As such, it&amp;rsquo;s important to look into preventative rather than reactive measures. Looking into a patient&amp;rsquo;s risk factors and using them to determine whether they would be at risk of CHD in the next decade allows significant room for lifestyle changes.</description>
+    </item>
+    
+  </channel>
+</rss>

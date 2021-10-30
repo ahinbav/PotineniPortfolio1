@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML Supported Quantifying of Risk Factor Significance and Generating Images of CHD on Academy of Science Research Portfolio</title>
+    <link>https://example.com/</link>
+    <description>Recent content in ML Supported Quantifying of Risk Factor Significance and Generating Images of CHD on Academy of Science Research Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Apr 2017 11:13:32 -0400</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emelia Benjamin</title>
+      <link>https://example.com/background/ebenjamin/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://example.com/background/ebenjamin/</guid>
+      <description>Dr. Emelia J. Benjamin is a Professor of Medicine and Epidimiology at Boston University and a clinical cardiologist at Boston Medical Center. She has authored 650+ peer-reviewed publications that focus on genetics, epidimiology, and prognosis of a variety of cardiovascular conditions and markers.
+Her Info: https://www.bumc.bu.edu/busm/profile/emelia-benjamin/
+Recorded Meeting Link: https://youtu.be/9VY0MVqqVF0
+Transcript Link: https://docs.google.com/document/d/1HEyFEZ2ez7TYBYVaX6pbFfVMWVHmAGX_ZqzEp_BokE4/edit?usp=sharing
+Main Points Made:
+Limitations:
+ The Framingham study does not reflect the ethnic and racial diversity of our country today.</description>
+    </item>
+    
+    <item>
+      <title>Phase I</title>
+      <link>https://example.com/projectsummary/phase1/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://example.com/projectsummary/phase1/</guid>
+      <description>Phase 1 &amp;amp; 2: Preprocessing and Risk Analysis Model Comparison
+The skills/information used in researching this project as well as the different steps were inspired by the meeting with the Harvard ML Researcher and the A-Z Machine Learning Courses over the course of the summer.
+The first step of my project is to normalize, replace null values, and standardize the values in the columns of my dataset. This is because the features have drastically different numbers, some of them are binary, others range from 1-4, and others are numerical values that can reach 500+.</description>
+    </item>
+    
+    <item>
+      <title>Significance of Problem Area &#43; Title Terms</title>
+      <link>https://example.com/post/chapter-3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-3/</guid>
+      <description>WHAT IS CHD?
+ Coronary Heart Disease (CHD) is the leading cause of death in the US, with approximately 500,000 - 700,000 deaths annually. People who are asymptomatic are unaware that they have CHD until they experience chest pain, a heart attack, or sudden cardiac arrest. Variations in early signs and symptoms may make CHD harder to recognize  For example, Men may feel fatigue or physical discomfort and attribute it to overwork, poor sleep, or some general age-related pain.</description>
+    </item>
+    
+    <item>
+      <title>Phase II</title>
+      <link>https://example.com/projectsummary/phase2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://example.com/projectsummary/phase2/</guid>
+      <description>The second phase of my project is merging data types. One of the researchers that I talked to suggested this. For a project regarding prediction of Parkinson’s disease, he used GANS or GANS: Generative Adversarial Networks to augment his dataset since he didn’t have enough images. Given a training set, this technique learns to generate new data with the same statistics as the training set. He suggested that I use GANS to generate images of CT scans.</description>
+    </item>
+    
+    <item>
+      <title>Sean Coady</title>
+      <link>https://example.com/background/seancoady/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://example.com/background/seancoady/</guid>
+      <description>Sean Coady is the Deputy Branch Chief at the National Heart, Lung, and Blood Institute.
+Research Papers through which I contacted him:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3673738/ https://pubmed.ncbi.nlm.nih.gov/23750335/
+His Info: https://jacksonheartstudy.umc.edu/directory/EmployeeDetail.aspx?EmployeeID=2620
+Recorded Meeting Link: https://youtu.be/Mf0c1xBMr68
+Transcript Link: https://docs.google.com/document/d/1ee5PYXvgsqlF6OSbukzEBwN-eSRsuIcLROSyv29PGmU/edit?usp=sharing
+Limitations/Potential Flaws:
+ Generalizability Issues: As we have seen with other risk prediction models, we tend to stratify by race. Relationships between particular risk factors and cardiovascular outcomes can differ in terms of how strong the absolute magnitude of the association of that risk factor is with the outcome.</description>
+    </item>
+    
+    <item>
+      <title>Why Machine Learning &#43; Dataset Used</title>
+      <link>https://example.com/post/chapter-5/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-5/</guid>
+      <description>Before delving into the specific Machine Learning Applications, it&amp;rsquo;s also crucial to look into why a project would be needed in this area.
+As mentioned previously, the variations in early signs and symptoms make CHD harder to recognize. As such, it&amp;rsquo;s important to look into preventative rather than reactive measures. Looking into a patient&amp;rsquo;s risk factors and using them to determine whether they would be at risk of CHD in the next decade allows significant room for lifestyle changes.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description>Reach out to me using the links to my youtube and github pages in the top right corner.
+Alternatively, enter your name, email address, and a message below.
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>
